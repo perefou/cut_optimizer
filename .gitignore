@@ -4,4 +4,4 @@ __pycache__/
 *.exe
 *.spec
 build/
-dist/
+dist/token.txt 
