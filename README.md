@@ -12,4 +12,4 @@ A simple 1D stock cutting optimizer built with Python and Tkinter.
 ## Run
 
 ```bash
-python cut_optimizer_gui3.py
+python cut_optimizer.py
